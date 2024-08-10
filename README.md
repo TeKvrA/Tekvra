@@ -41,7 +41,7 @@
 </a>
 
 <a href="https://www.cplusplus.com/" target="_blank">
-  <img alt="Java" src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=java&logoColor=white">
 </a>
 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
