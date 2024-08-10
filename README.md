@@ -41,7 +41,7 @@
 </a>
 
 <a href="https://www.cplusplus.com/" target="_blank">
-  <img alt="Java" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAldJREFUWEftmdFt6kAQRe+4AvMaiF8lOJWQfCVUYfL1SsD5CqkEUkmcBmJX4Hma2V2wEQG86438wUoIydLahzszd8YLcTljjLjquh7xbgDdAAP17CtIvEKLj5B7Nk0Tsl32Zgy8uZv0AZnvadnsQp8Qsr/+h5yB7Q3QV8VfU5DXaUbLphoK+nuAr2lBT83LdAHL2Zae6/tJAvJrWoCTjJ6/HycHaOBoBU/LipaDUhQgEoPNfeFE7SiAFu5Tw2mV43X6AKAaavxxAMuZOH8GZsm5SpVkfhkKF0VBXqc5iLZ75QSWeOdjMbEAH6xifzXERJ+iJC2bzdAKjgUoxSFQOmhwOevm4jQ6CZd/3kBtJWHt2IyXinGKRC0mKZwxq4rEG588jAKo7tIZDkTR4y6iVgTIAHF23hwF0LUycPtxqhiksh2IBdNJGUQFQNW5FhgM2OkYGUAHNaitpP/2Ktfmpbtm98oQYSr+xAoG7D1MVDGf7vqxe1wzRIwJmIOSBbh91+7RXzkS3Kkt2plQWx/R4tIINiagKCeQc4CdkgaU2IS+heTozuXhNRP2aICucpXHY7SPnoMK6IYEDTHZMKuapmrNwDCo5QUpaEMlFrLp2YdaSDKXbrJXxoa3q9Q1L1LegPuZz54+XDLcbgogwQItvmw6nFXUG3D/QEqKo6KQkFrlemE2Pimq9ovlbDcJAjxObBfyEzZjclCW2I2oZ77fLxXUqIBHpn2AOvwSMe1BI1cUwJ8sw+f6DdBHte6eSwqat7KAFXqA2QJzAlYO4XZGHRAMO3dM/G+I/5Jqk2cMsm37AAAAAElFTkSuQmCC">
+  <img alt="Java" src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </a>
 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
