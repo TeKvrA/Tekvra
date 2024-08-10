@@ -9,7 +9,7 @@
 
 - 🌱 Estoy aprendiendo **Backend Development**
 
-- 👨‍💻 Explora mis Proyectons en [Github.com](https://github.com/TeKvrA)
+- 👨‍💻 Explora mis Proyectos en [Github.com](https://github.com/TeKvrA)
 
 - 💬 Preguntame por **Java,SpringBoot, Bootstrap, Node.js, React, SQL**
 
