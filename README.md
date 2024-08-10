@@ -108,13 +108,13 @@
 
 
 
-## Github Contribution Streak 🔥 
+## Contribuciones en GitHub 🔥 
 <br>
 <p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=TeKvrA&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
 
 <hr><br>
 
-## Github Stats &nbsp;📊
+## Estadísticas de GitHub &nbsp;📊
 <br>
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=TeKvrA&show_icons=true&theme=github_dark">
@@ -122,7 +122,7 @@
 <hr>
 <br>
 
-## Most Used Languages 📚
+## Lenguajes más Usados 📚
 <br>
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=TeKvrA&show_icons=true&theme=github_dark">
