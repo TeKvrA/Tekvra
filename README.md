@@ -125,7 +125,7 @@
 ## Lenguajes más Usados 📚
 <br>
 <p align='center'>
-<img src="[https://github-readme-stats.vercel.app/api?username=TeKvrA&show_icons=true&theme=github_dark](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TeKvrA&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TeKvrA&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
 </p>
 
 <hr>
