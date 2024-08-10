@@ -7,13 +7,13 @@
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 Estoy aprendiendo **Backend Development**
 
-- 👨‍💻 Explore my projects at [Github.com](https://github.com/TeKvrA)
+- 👨‍💻 Explora mis Proyectons en [Github.com](https://github.com/TeKvrA)
 
-- 💬 Ask me about **Java,SpringBoot, Bootstrap, Node.js, **
+- 💬 Preguntame por **Java,SpringBoot, Bootstrap, Node.js, React, SQL**
 
-- 📫 Reach me at **tekvra@gmail.com**
+- 📫 Puedes Encontrarme en **tekvra@gmail.com**
 
 
 ### Connect with me 🔗 :
@@ -41,7 +41,7 @@
 </a>
 
 <a href="https://www.cplusplus.com/" target="_blank">
-  <img alt="Java" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCAxLjYgMS42IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxwYXRoIGQ9Ik0wLjgwMyAwLjQyMkMxLjEzMiAwLjE2NiAwLjk2MyAwIDAuOTYzIDBjMC4wMjUgMC4yNjQgLTAuMjcyIDAuMzI3IC0wLjM1MiAwLjUwOSAtMC4wNTQgMC4xMjQgMC4wMzcgMC4yMzMgMC4xOTEgMC4zNjkgLTAuMDE0IC0wLjAzIC0wLjAzNSAtMC4wNiAtMC4wNTYgLTAuMDkgLTAuMDczIC0wLjEwMiAtMC4xNDggLTAuMjA4IDAuMDU2IC0wLjM2NiIgZmlsbD0iI0U3NkYwMCIvPgogIDxwYXRoIGQ9Ik0wLjg1NSAwLjkzNHMwLjA5OSAtMC4wOCAwLjAyMSAtMC4xNjljLTAuMjY2IC0wLjMwMiAwLjI5MSAtMC40MzggMC4yOTEgLTAuNDM4IC0wLjM0IDAuMTY0IC0wLjI4OSAwLjI2MSAtMC4yMDQgMC4zNzkgMC4wOTIgMC4xMjcgLTAuMTA4IDAuMjI4IC0wLjEwOCAwLjIyOCIgZmlsbD0iI0U3NkYwMCIvPgogIDxwYXRoIGQ9Ik0xLjE0NyAxLjE3MmMwLjMwNSAtMC4xNTYgMC4xNjQgLTAuMzA2IDAuMDY2IC0wLjI4NiAtMC4wMjQgMC4wMDUgLTAuMDM1IDAuMDA5IC0wLjAzNSAwLjAwOXMwLjAwOSAtMC4wMTQgMC4wMjYgLTAuMDJjMC4xOTUgLTAuMDY3IDAuMzQ1IDAuMTk5IC0wLjA2MyAwLjMwNCAwIDAgMC4wMDUgLTAuMDA0IDAuMDA2IC0wLjAwOG0tMC42MzUgLTAuMTk3Yy0wLjE5MSAtMC4wMjUgMC4xMDUgLTAuMDk0IDAuMTA1IC0wLjA5NHMtMC4xMTUgLTAuMDA4IC0wLjI1NiAwLjA1OWMtMC4xNjcgMC4wOCAwLjQxMyAwLjExNiAwLjcxMyAwLjAzOCAwLjAzMSAtMC4wMjEgMC4wNzQgLTAuMDM5IDAuMDc0IC0wLjAzOXMtMC4xMjMgMC4wMjIgLTAuMjQ1IDAuMDMyYy0wLjE1IDAuMDEyIC0wLjMxIDAuMDE1IC0wLjM5MSAwLjAwNG0wLjA3MyAwLjE0OWMtMC4xMDYgLTAuMDExIC0wLjAzNyAtMC4wNjIgLTAuMDM3IC0wLjA2MiAtMC4yNzYgMC4wOSAwLjE1MyAwLjE5MiAwLjUzOCAwLjA4MSAtMC4wNDEgLTAuMDE0IC0wLjA2NyAtMC4wNCAtMC4wNjcgLTAuMDQgLTAuMTg4IDAuMDM2IC0wLjI5NyAwLjAzNCAtMC40MzUgMC4wMjFtMC4wNDYgMC4xNjFjLTAuMTA2IC0wLjAxMiAtMC4wNDQgLTAuMDQ4IC0wLjA0NCAtMC4wNDggLTAuMjUgMC4wNjkgMC4xNTIgMC4yMTEgMC40NzEgMC4wNzdhMC42IDAuNiAwIDAgMSAtMC4wOSAtMC4wNDNjLTAuMTQyIDAuMDI2IC0wLjIwOCAwLjAyOCAtMC4zMzcgMC4wMTQiIGZpbGw9IiM1MzgyQTEiLz4KICA8cGF0aCBkPSJNMS4yOTcgMS4zNjdzMC4wNDYgMC4wMzcgLTAuMDUxIDAuMDY2Yy0wLjE4NCAwLjA1NSAtMC43NjUgMC4wNzEgLTAuOTI3IDAuMDAyIC0wLjA1OCAtMC4wMjUgMC4wNTEgLTAuMDU5IDAuMDg1IC0wLjA2NyAwLjAzNiAtMC4wMDggMC4wNTYgLTAuMDA2IDAuMDU2IC0wLjAwNiAtMC4wNjUgLTAuMDQ1IC0wLjQxNyAwLjA4OCAtMC4xNzkgMC4xMjYgMC42NDkgMC4xMDQgMS4xODQgLTAuMDQ3IDEuMDE1IC0wLjEyMSIgZmlsbD0iIzUzODJBMSIvPgogIDxwYXRoIGQ9Ik0xLjQgMS40NDhjLTAuMDExIDAuMTM2IC0wLjQ2MSAwLjE2NSAtMC43NTQgMC4xNDcgLTAuMTkxIC0wLjAxMiAtMC4yMjkgLTAuMDQyIC0wLjIzIC0wLjA0MyAwLjE4MyAwLjAzIDAuNDkxIDAuMDM1IDAuNzQyIC0wLjAxMUMxLjM4IDEuNSAxLjQgMS40NDggMS40IDEuNDQ4IiBmaWxsPSIjNTM4MkExIi8+Cjwvc3ZnPgo=">
+  <img alt="Java" src="https://th.bing.com/th/id/OIP.n8pa_ux7uUyU9CJrzb1scAHaHa?rs=1&pid=ImgDetMain">
 </a>
 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
