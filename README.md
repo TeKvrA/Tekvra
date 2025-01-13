@@ -7,7 +7,7 @@
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 
-- 🌱 Estoy aprendiendo **Backend Development**
+- 🌱 Estoy aprendiendo **CiberSeguridad**
 
 - 👨‍💻 Explora mis Proyectos en [Github.com](https://github.com/TeKvrA)
 
